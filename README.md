@@ -32,10 +32,11 @@ Browse through my repositories and feel free to get in touch if you have any que
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zserinz&layout=compact&theme=dracula"/>
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=zserinz&theme=dracula&show_icons=true" width="42%" />
-</a>
-<br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fserinns%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<!-- <a href="s"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=zserinz&theme=dracula&show_icons=true" width="42%" /> -->
+<!-- </a> -->
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/zserinz)
+<br />
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fserinns%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
